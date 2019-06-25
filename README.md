@@ -1,2 +1,1 @@
-# LoRa-P2P-Radio-Communication
-with LoRa RN2483 device
+I will update the README soon for more help in this topic
